@@ -1,5 +1,10 @@
 # Contador de billetes y monedas mexicanas 
 
+<p align="center">
+<a href="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp" target="_BLANK"><img src="https://img.shields.io/badge/version-1.0.2-green.svg"/></a>
+  <a href="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img src="https://img.shields.io/badge/-Download-orange.svg"/></a>
+</p>
+
 Creado en Visual Studio 2017 (C#)
 <br/> <br/>
 
