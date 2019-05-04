@@ -1,0 +1,23 @@
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.exe.config
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.exe
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.pdb
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.csprojResolveAssemblyReference.cache
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.MainForm.resources
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.csproj.GenerateResource.Cache
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.exe
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.pdb
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.AcercaDe.resources
+C:\Users\Uli Gibson\Documents\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.Resource1.resources
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.exe.config
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.exe
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.pdb
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.csprojResolveAssemblyReference.cache
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.AcercaDe.resources
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.MainForm.resources
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador_de_billetes.Resource1.resources
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.csproj.GenerateResource.Cache
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.exe
+D:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.pdb
+G:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\bin\Debug\Contador de billetes.exe.config
+G:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.exe
+G:\Documentos\SharpDevelop Projects\Contador de billetes\Contador de billetes\obj\Debug\Contador de billetes.pdb
