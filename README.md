@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="#!"><img src="https://img.shields.io/badge/Version-1.0.0-yellow.svg"></a>
-  <a href="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img src="https://img.shields.io/badge/Descargar-Version_estable-green.svg"/></a>
+  <a href="https://raw.githubusercontent.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img src="https://img.shields.io/badge/Descargar-Version_estable-green.svg"/></a>
   <a href="#!"><img src="https://img.shields.io/badge/Contribuidores-0-blue.svg?style=flat-square"></a>
   <a href="#!"><img src="https://img.shields.io/badge/Licencia-MIT-orange.svg?style=flat-square"></a>
 </p>
@@ -72,7 +72,7 @@ Simple programa que te ayudará a contar tu dinero, es capaz de sumar tanto bill
 
 Puedes descargar la versión ejecutable aquí
 
-<a href="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img width="188" height="62" src="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Project%20images/btn.png?raw=true"></a>
+<a href="https://raw.githubusercontent.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img width="188" height="62" src="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Project%20images/btn.png?raw=true"></a>
 
 <br> <br>
 
