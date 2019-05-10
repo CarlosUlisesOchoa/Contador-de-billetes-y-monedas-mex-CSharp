@@ -68,17 +68,17 @@ Simple programa que te ayudará a contar tu dinero, es capaz de sumar tanto bill
 
 <br>
 
+## Licencia
+
+Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md).
+
+<br> <br>
+
 ## Descarga
 
 Puedes descargar la versión ejecutable aquí
 
 <a href="https://raw.githubusercontent.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/master/Contador%20de%20billetes/bin/Debug/Contador%20de%20billetes.exe" target="_BLANK"><img width="188" height="62" src="https://github.com/CarlosUlisesOchoa/Contador-de-billetes-y-monedas-mex-CSharp/blob/master/Project%20images/btn.png?raw=true"></a>
-
-<br> <br>
-
-## Licencia
-
-Este proyecto se encuentra bajo los términos de la [Licencia MIT](./LICENSE.md).
 
 <br> <br>
 
