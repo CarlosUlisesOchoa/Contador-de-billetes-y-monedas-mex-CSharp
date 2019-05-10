@@ -8,13 +8,8 @@
 </p>
 
 <p align="left">
-Un simple juego similar al de la máquina tragamonedas <br>
-PD: Este juego está disponible en dos idiomas: * inglés y español *
+Simple herramienta que te ayudará a contar tu dinero de una manera fácil y eficaz
 </p> 
-
-<br>
-
-#### <a href="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite" target="_BLANK">----> English version <------</a>
 
 <br>
 
