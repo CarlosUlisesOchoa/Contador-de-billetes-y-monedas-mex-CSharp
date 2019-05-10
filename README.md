@@ -7,6 +7,8 @@
   <a href="#!"><img src="https://img.shields.io/badge/Licencia-MIT-orange.svg?style=flat-square"></a>
 </p>
 
+<br>
+
 <p align="left">
 Simple herramienta que te ayudará a contar tu dinero de una manera fácil y eficaz
 </p> 
