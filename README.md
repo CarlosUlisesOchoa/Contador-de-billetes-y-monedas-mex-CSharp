@@ -24,7 +24,6 @@ Simple herramienta que te ayudará a contar tu dinero de una manera fácil y efi
 - [Licencia](#licencia)
 - [Descarga](#descarga)
 - [Acerca del desarrollador](#acerca-del-desarrollador)
-- [Donar](#donar)
 
 ---
 <br>
@@ -84,23 +83,6 @@ Puedes descargar la versión ejecutable aquí
 
 ## Acerca del desarrollador
 
-Visita mi página web [Carlos Ulises](http://www.carlosulises.ml)
-
-<a href="http://www.carlosulises.ml" target="_BLANK">
-<img width="85%" height="85%" src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/spanish_version/project%20images/dev-es.jpg?raw=true" />
-</a>
+Visita mi página web [Carlos Ochoa](https://carlos8a.com)
 
 <br>
-
-#### Mis redes sociales
-
-<a href="https://www.facebook.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/fb.png?raw=true" width="70"></a> <a href="https://www.linkedin.com/in/carlos-ulises-ochoa-51389215b/"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/li.png?raw=true" width="70"></a> <a href="http://twitter.com/UliGibson"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/tw.png?raw=true" width="70"></a> <a href="mailto:uligibson@hotmail.com"><img src="https://github.com/CarlosUlisesOchoa/Roulette-pictures-game-Java-SQLite/blob/english_version/project%20images/outlook.png?raw=true" width="70"></a>
-
-<br>
-<br>
-
-## Donar
-
-¡ Invítame un café !
-
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E9S9NRUYDDKZQ&source=url"><img width="20%" height="20%" src="https://github.com/CarlosUlisesOchoa/File-Hosting/blob/master/Images/pp%20donar.png?raw=true" alt="Botón donar"/></a>
